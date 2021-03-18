@@ -1,0 +1,43 @@
+div {
+    padding: 10px;
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-size: 90px;
+    margin-top: 90px;
+}
+.links {
+    color: black;
+    text-align: right;
+    font-size: 15px;
+}
+a {
+    text-decoration: none;
+    color: #000000DE;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    padding-right: 20px;
+}
+a:hover {
+    text-decoration: underline;
+}
+#textbox {
+    border: 1px solid #dfe1e5;
+    line-height: 35px;
+    width: 500px;
+    border-radius: 30px;
+    text-align: left;
+    padding-left: 10px;
+    border-width: 1px;
+    outline: none;
+}
+#textbox:hover {
+    box-shadow: 1px 1px 4px #808080;
+}
+#Images {
+    color: #4885ed;
+    font-size: 20px;
+    padding-left: 210px;
+    margin-top: -35px;
+}
